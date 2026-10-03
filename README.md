@@ -1,6 +1,6 @@
-# Hi, I'm Surya Teja Gunnam
+# Applied AI & ML Systems
 
-**CS PhD student · Applied AI & ML Systems**
+**CS PhD student @ Southwest Baptist University**
 
 I build LLM-powered applications and the infrastructure behind them — agentic RAG
 pipelines, AI agent workflows, and ML systems (compilers, accelerators,
